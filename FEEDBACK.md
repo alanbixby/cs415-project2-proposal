@@ -9,5 +9,6 @@
 2. There's some seaborn theme (i think?) that uses ggplot style theme. Check that out.
 3. TBD re: GPU resources.
 4. There are less resource intensive stuff you can check out. E.g., VADER.
+5. Maybe run some experiments to have an idea about sampling if necessary.
 
 Proposal score: 100
